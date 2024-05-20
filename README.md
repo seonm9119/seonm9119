@@ -2,11 +2,9 @@
 
 
 저의 REPORATIGY에 오신걸 환영합니다. 나만의 코드북을 만들기 위해 튜토리얼을 만들고 있습니다. 아직 많이 부족한 점이 많지만, 계속 업로드 할 예정입니다! 
-
+> 더 많은 튜토리얼 보기 : https://github.com/seonm9119/tutorials
 ---
 ### Tutorials
-더 많은 튜토리얼 보기 : https://github.com/seonm9119/tutorials
-
 Category | Paper | Tutorial
 :---: | :---: | :---:
 Machine Translation| [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762)| [Transformer](https://github.com/seonm9119/tutorials/blob/main/Transformer.ipynb)
